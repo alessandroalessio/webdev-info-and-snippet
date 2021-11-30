@@ -2,7 +2,7 @@
 
 ## Javascript
 
-- (https://gist.github.com/alessandroalessio/9718c2e4cfa6c31b013eb2e27bb1cc8d)[Vanilla Javascript Page Loader]
+- [Vanilla Javascript Page Loader](https://gist.github.com/alessandroalessio/9718c2e4cfa6c31b013eb2e27bb1cc8d)
 
 ## Wordpress
 
