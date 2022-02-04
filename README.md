@@ -10,3 +10,8 @@ Allowing Upload with Filesystem on Wordpress
 ```
 define('FS_METHOD', 'direct');
 ```
+
+Enable shortcode in Wordpress widget
+```
+add_filter( 'widget_text', 'do_shortcode' );
+```
